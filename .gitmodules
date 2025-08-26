@@ -7,3 +7,6 @@
 [submodule "KAF-Net"]
 	path = KAF-Net
 	url = git@github.com:PSGBOT/KAF-Net.git
+[submodule "pixtral-12B-Inference"]
+	path = pixtral-12B-Inference
+	url = git@github.com:PSGBOT/pixtral-12B-Inference.git

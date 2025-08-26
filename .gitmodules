@@ -1,0 +1,9 @@
+[submodule "KAF-Generation"]
+	path = KAF-Generation
+	url = https://github.com/PSGBOT/KAF-Generation
+[submodule "SayPlan_Reconstruct"]
+	path = SayPlan_Reconstruct
+	url = git@github.com:PSGBOT/SayPlan_Reconstruct.git
+[submodule "KAF-Net"]
+	path = KAF-Net
+	url = git@github.com:PSGBOT/KAF-Net.git

@@ -1,6 +1,7 @@
 import os
+import torch
 
-from KAF-Generation.tools.custom_predict import *
+from KAF_Generation.tools.custom_predict import *
 from pixtral_12B_Inference.relation_generator import VLMRelationGenerator
 from SG_Constructor.constructor import *
 from SayPlan_Reconstruct.pipeline import Pipeline

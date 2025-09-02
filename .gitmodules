@@ -3,10 +3,10 @@
 	url = https://github.com/PSGBOT/KAF-Generation
 [submodule "SayPlan_Reconstruct"]
 	path = SayPlan_Reconstruct
-	url = git@github.com:PSGBOT/SayPlan_Reconstruct.git
+	url = https://github.com/PSGBOT/SayPlan_Reconstruct.git
 [submodule "KAF_Net"]
 	path = KAF_Net
-	url = git@github.com:PSGBOT/KAF-Net.git
+	url = https://github.com/PSGBOT/KAF-Net.git
 [submodule "pixtral_12B_Inference"]
 	path = pixtral_12B_Inference
-	url = git@github.com:PSGBOT/pixtral-12B-Inference.git
+	url = https://github.com/PSGBOT/pixtral-12B-Inference.git

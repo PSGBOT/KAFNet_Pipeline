@@ -1,12 +1,12 @@
 [submodule "KAF_Generation"]
 	path = KAF_Generation
-	url = https://github.com/XXXX
+	url = https://anonymous.4open.science/r/KAF-Generation-410F
 [submodule "SayPlan_Reconstruct"]
 	path = SayPlan_Reconstruct
-	url = https://github.com/XXXX
+	url = https://anonymous.4open.science/r/SayPlan_Reconstruct-B7E6
 [submodule "KAF_Net"]
 	path = KAF_Net
-	url = https://github.com/XXXX
+	url = https://anonymous.4open.science/r/KAF-Net-3E3D
 [submodule "pixtral_12B_Inference"]
 	path = pixtral_12B_Inference
-	url = https://github.com/XXXX
+	url = https://anonymous.4open.science/r/pixtral-12B-Inference-1EB2
